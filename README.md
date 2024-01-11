@@ -15,6 +15,7 @@ Data scientist with professional experience as a performing musician, educator, 
   -- https://www.linkedin.com/in/david-hartsman-data/
 
 - Projects:
+  
   -- [Stock Market Analysis](https://github.com/dvdhartsman/Stock_Market_Analysis)
   
   -- [Natural Language Processing Analysis](https://github.com/dvdhartsman/NLP-Sentiment-Analysis)
