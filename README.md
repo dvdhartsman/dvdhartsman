@@ -10,9 +10,9 @@ Data scientist with professional experience as a performing musician, educator, 
 
 - 📫 How to reach me:
   
-  -- dvdhartsman@gmail.com
+  -- [E-mail](dvdhartsman@gmail.com)
   
-  -- https://www.linkedin.com/in/david-hartsman-data/
+  -- [LinkedIn](https://www.linkedin.com/in/david-hartsman-data/)
 
 - Projects:
   
@@ -21,6 +21,11 @@ Data scientist with professional experience as a performing musician, educator, 
   -- [Natural Language Processing Analysis](https://github.com/dvdhartsman/NLP-Sentiment-Analysis)
   
   -- [Tanzanian Water Well Operating Status Predictions](https://github.com/dvdhartsman/Phase_3_Project)
+
+
+- Blog:
+ 
+  -- [David Hartsman on Medium](https://medium.com/@dvdhartsman)
 
 <!--
 **dvdhartsman/dvdhartsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
