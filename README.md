@@ -3,6 +3,8 @@
 #### Welcome to my GitHub
 
 #### About Me: 
+##### David Hartsman
+- 😄 Pronouns: He/Him
 
 Data scientist with professional experience as a performing musician, educator, and professional poker player. Pretty standard, right? I have a passion for extracting meaningful insights from data and using those insights to develop actionable strategies to improve organizational outcomes. Actively learning new skills, competing on Kaggle, studying DataCamp, and expanding my toolkit. 
 
@@ -11,8 +13,6 @@ Data scientist with professional experience as a performing musician, educator, 
   -- dvdhartsman@gmail.com
   
   -- https://www.linkedin.com/in/david-hartsman-data/
-
-- 😄 Pronouns: He/Him
 
 - Projects:
   -- [Stock Market Analysis](https://github.com/dvdhartsman/Stock_Market_Analysis)
