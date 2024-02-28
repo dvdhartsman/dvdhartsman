@@ -25,12 +25,15 @@ Data scientist with professional experience as a performing musician, educator, 
   -- [Tanzanian Water Well Operating Status Predictions](https://github.com/dvdhartsman/Phase_3_Project)
 
 - Streamlit App:
-    -- [Bird Classification Streamlit App](https://bird-species-image-classification-heath-and-david.streamlit.app/)
+
+  -- [Bird Classification Streamlit App](https://bird-species-image-classification-heath-and-david.streamlit.app/)
 
 - DataCamp Portfolio:
-  -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman)
+
+   -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman)
 
 - Tableau Public Profile:
+
   -- [Tableau Visualizations](https://public.tableau.com/app/profile/david.hartsman/vizzes)
   
 - Blog:
