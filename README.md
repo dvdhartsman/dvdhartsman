@@ -18,13 +18,14 @@ Data scientist with professional experience as a performing musician, educator, 
 
   -- [Computer Vision - Bird Species Classification](https://github.com/dvdhartsman/Bird_Species_Image_Classification)
 
-  ##### -- [Bird Classification Streamlit App](https://bird-species-image-classification-heath-and-david.streamlit.app/)
-
   -- [Stock Market Analysis](https://github.com/dvdhartsman/Stock_Market_Analysis)
   
   -- [Natural Language Processing Analysis](https://github.com/dvdhartsman/NLP-Sentiment-Analysis)
   
   -- [Tanzanian Water Well Operating Status Predictions](https://github.com/dvdhartsman/Phase_3_Project)
+
+- Streamlit App:
+    -- [Bird Classification Streamlit App](https://bird-species-image-classification-heath-and-david.streamlit.app/)
 
 - DataCamp Portfolio:
   -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman)
