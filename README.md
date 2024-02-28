@@ -1,12 +1,12 @@
 ### Hello Everyone! 👋
 
-#### Welcome to my GitHub
+#### Welcome to my GitHub Portfolio
 
 #### About Me: 
 ##### David Hartsman
 - 😄 Pronouns: He/Him
 
-Data scientist with professional experience as a performing musician, educator, and professional poker player. Pretty standard, right? I have a passion for extracting meaningful insights from data and using those insights to develop actionable strategies to improve organizational outcomes. Actively learning new skills, competing on Kaggle, studying DataCamp, and expanding my toolkit. 
+Data scientist with professional experience as a performing musician, educator, and professional poker player. Pretty standard, right? I have a passion for extracting meaningful insights from data and using those insights to develop actionable items to improve organizational outcomes. Actively learning new skills, competing on Kaggle, studying online with DataCamp, and perpetually expanding my toolkit. 
 
 - 📫 How to reach me:
   
@@ -15,14 +15,22 @@ Data scientist with professional experience as a performing musician, educator, 
   -- [LinkedIn](https://www.linkedin.com/in/david-hartsman-data/)
 
 - Projects:
-  
+
+  -- [Computer Vision - Bird Species Classification](https://github.com/dvdhartsman/Bird_Species_Image_Classification)
+    -- [Streamlit App](https://bird-species-image-classification-heath-and-david.streamlit.app/)
+
   -- [Stock Market Analysis](https://github.com/dvdhartsman/Stock_Market_Analysis)
   
   -- [Natural Language Processing Analysis](https://github.com/dvdhartsman/NLP-Sentiment-Analysis)
   
   -- [Tanzanian Water Well Operating Status Predictions](https://github.com/dvdhartsman/Phase_3_Project)
 
+- DataCamp Portfolio:
+  -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman)
 
+- Tableau Public Profile:
+  -- [Tableau Visualizations](https://public.tableau.com/app/profile/david.hartsman/vizzes)
+  
 - Blog:
  
   -- [David Hartsman on Medium](https://medium.com/@dvdhartsman)
