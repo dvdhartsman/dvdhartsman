@@ -8,11 +8,6 @@
 
 Data scientist with professional experience as a performing musician, educator, and professional poker player. Pretty standard, right? I have a passion for extracting meaningful insights from data and using those insights to develop actionable items to improve organizational outcomes. Actively learning new skills, competing on Kaggle, studying online with DataCamp, and perpetually expanding my toolkit. 
 
-- 📫 How to reach me:
-  
-  -- [E-mail](dvdhartsman@gmail.com)
-  
-  -- [LinkedIn](https://www.linkedin.com/in/david-hartsman-data/)
 
 - Projects:
 
@@ -39,6 +34,13 @@ Data scientist with professional experience as a performing musician, educator, 
 - Blog:
  
   -- [David Hartsman on Medium](https://medium.com/@dvdhartsman)
+
+
+- 📫 How to reach me:
+  
+  -- [E-mail](dvdhartsman@gmail.com)
+  
+  -- [LinkedIn](https://www.linkedin.com/in/david-hartsman-data/)
 
 <!--
 **dvdhartsman/dvdhartsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
