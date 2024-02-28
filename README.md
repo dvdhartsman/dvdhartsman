@@ -17,6 +17,7 @@ Data scientist with professional experience as a performing musician, educator, 
 - Projects:
 
   -- [Computer Vision - Bird Species Classification](https://github.com/dvdhartsman/Bird_Species_Image_Classification)
+
     -- [Streamlit App](https://bird-species-image-classification-heath-and-david.streamlit.app/)
 
   -- [Stock Market Analysis](https://github.com/dvdhartsman/Stock_Market_Analysis)
