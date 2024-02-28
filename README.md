@@ -22,7 +22,7 @@ Data scientist with professional experience as a performing musician, educator, 
   
   -- [Natural Language Processing Analysis](https://github.com/dvdhartsman/NLP-Sentiment-Analysis)
   
-  -- [Tanzanian Water Well Operating Status Predictions](https://github.com/dvdhartsman/Phase_3_Project)
+  -- [Tanzanian Water Well Operating Status Predictions](https://github.com/dvdhartsman/Tanzanian_Water_Pumps)
 
 - Streamlit App:
 
