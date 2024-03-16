@@ -6,7 +6,9 @@
 ##### David Hartsman
 - 😄 Pronouns: He/Him
 
-**Data Scientist|Analyst** Graduate of the Flatiron School Data Science program with professional experience as a performing musician, educator, and professional poker player. 
+**Data Scientist|Analyst** 
+
+*Graduate of the Flatiron School Data Science program with professional experience as a performing musician, educator, and professional poker player.* 
 
 I have a passion for extracting meaningful insights from data. I enjoy taking those insights and developing actionable items to help improve organizational outcomes. I am actively learning new skills, working on projects large and small, studying online with DataCamp and other resources, and expanding my toolkit. 
 
