@@ -25,7 +25,7 @@ Data scientist with professional experience as a performing musician, educator, 
 
 - DataCamp Portfolio:
 
-   -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman)
+   -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman?view=true)
 
 - Tableau Public Profile:
 
