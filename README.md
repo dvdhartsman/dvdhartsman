@@ -27,15 +27,15 @@ Data scientist with professional experience as a performing musician, educator, 
 
    -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman?view=true)
     *Smaller-scale projects*
-    **Analyzing Crime in Los Angeles**
-    **Investigating Netflix Movies**
-    **Predictive Modeling for Agriculture**
-    **Hypothesis Testing with Men's and Women's Soccer Matches**
-    **Customer Analytics: Preparing Data for Modeling**
-    **Exploring NYC Public School Test Results**
-    **Modeling Car Insurance Claims Outcomes**
-    **Visualizing the History of Nobel Prize Winners**
-    **Exploring AirBnB Market Trends**
+    - **Analyzing Crime in Los Angeles**
+    - **Investigating Netflix Movies**
+    - **Predictive Modeling for Agriculture**
+    - **Hypothesis Testing with Men's and Women's Soccer Matches**
+    - **Customer Analytics: Preparing Data for Modeling**
+    - **Exploring NYC Public School Test Results**
+    - **Modeling Car Insurance Claims Outcomes**
+    - **Visualizing the History of Nobel Prize Winners**
+    - **Exploring AirBnB Market Trends**
 
 - Tableau Public Profile:
 
