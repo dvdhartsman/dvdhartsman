@@ -9,7 +9,7 @@
 Data scientist with professional experience as a performing musician, educator, and professional poker player. Pretty standard, right? I have a passion for extracting meaningful insights from data and using those insights to develop actionable items to improve organizational outcomes. Actively learning new skills, competing on Kaggle, studying online with DataCamp, and perpetually expanding my toolkit. 
 
 
-- **Projects**:
+- **Projects**: *Large-Scale Projects*
 
   -- [Computer Vision - Bird Species Classification](https://github.com/dvdhartsman/Bird_Species_Image_Classification)
 
@@ -25,7 +25,7 @@ Data scientist with professional experience as a performing musician, educator, 
 
 - **DataCamp Portfolio**:
 
-   -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman?view=true): *Smaller-scale Projects*
+   -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman?view=true): *Small-Scale Projects*
     - **Analyzing Crime in Los Angeles**
     - **Investigating Netflix Movies**
     - **Predictive Modeling for Agriculture**
