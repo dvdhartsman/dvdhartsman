@@ -9,7 +9,7 @@
 Data scientist with professional experience as a performing musician, educator, and professional poker player. Pretty standard, right? I have a passion for extracting meaningful insights from data and using those insights to develop actionable items to improve organizational outcomes. Actively learning new skills, competing on Kaggle, studying online with DataCamp, and perpetually expanding my toolkit. 
 
 
-- Projects:
+- **Projects**:
 
   -- [Computer Vision - Bird Species Classification](https://github.com/dvdhartsman/Bird_Species_Image_Classification)
 
@@ -19,11 +19,11 @@ Data scientist with professional experience as a performing musician, educator, 
   
   -- [Tanzanian Water Well Operating Status Predictions](https://github.com/dvdhartsman/Tanzanian_Water_Pumps)
 
-- Streamlit App:
+- **Streamlit App**:
 
   -- [Bird Classification Streamlit App](https://bird-species-image-classification-heath-and-david.streamlit.app/)
 
-- DataCamp Portfolio:
+- **DataCamp Portfolio**:
 
    -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman?view=true): *Smaller-scale Projects*
     - **Analyzing Crime in Los Angeles**
@@ -36,16 +36,16 @@ Data scientist with professional experience as a performing musician, educator, 
     - **Visualizing the History of Nobel Prize Winners**
     - **Exploring AirBnB Market Trends**
 
-- Tableau Public Profile:
+- **Tableau Public Profile**:
 
   -- [Tableau Visualizations](https://public.tableau.com/app/profile/david.hartsman/vizzes)
   
-- Blog:
+- **Blog**:
  
   -- [David Hartsman on Medium](https://medium.com/@dvdhartsman)
 
 
-- 📫 How to reach me:
+- 📫 **How to reach me**:
   
   -- [E-mail](dvdhartsman@gmail.com)
   
