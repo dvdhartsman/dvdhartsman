@@ -25,7 +25,7 @@ Data scientist with professional experience as a performing musician, educator, 
 
 - DataCamp Portfolio:
 
-   -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman?view=true): *Smaller-scale projects*
+   -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman?view=true): *Smaller-scale Projects*
     - **Analyzing Crime in Los Angeles**
     - **Investigating Netflix Movies**
     - **Predictive Modeling for Agriculture**
