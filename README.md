@@ -69,8 +69,8 @@ I have a passion for extracting meaningful insights from data. I enjoy taking th
   
 - [**Blog**:](https://medium.com/@dvdhartsman)
  
-  -- David Hartsman on Medium(https://medium.com/@dvdhartsman)
-
+  -- David Hartsman on Medium
+  
 <hr style="border: 4px solid blue">
 
 - 📫 **How to reach me**:
