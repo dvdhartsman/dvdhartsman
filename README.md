@@ -33,11 +33,15 @@ I have a passion for extracting meaningful insights from data. I enjoy taking th
     - *Curated and engineered features about Tanzanian Water wells to predict their operational status and if they needed repairs*
     - *Utilized Scitkit-Learn Logistic Regression models to develop a multi-class classification model
 
+<hr style="border: 4px solid blue">
+
 - [**Streamlit App**:](https://bird-species-image-classification-heath-and-david.streamlit.app/)
 
   -- Bird Classification Streamlit App
     - *Application with the model created in the Bird Classification project*
     - *Assess the model's predictive accuracy on the 525 species by feeding it images of birds from outside sources*
+
+<hr style="border: 4px solid blue">
 
 - [**DataCamp Portfolio**:](https://www.datacamp.com/portfolio/dvdhartsman?view=true)
 
@@ -54,14 +58,19 @@ I have a passion for extracting meaningful insights from data. I enjoy taking th
     - **Visualizing the History of Nobel Prize Winners**
     - **Exploring AirBnB Market Trends**
 
+<hr style="border: 4px solid blue">
+
 - [**Tableau Public Profile**:](https://public.tableau.com/app/profile/david.hartsman/vizzes)
 
   -- Tableau Visualizations
+
+<hr style="border: 4px solid blue">
   
 - [**Blog**:](https://medium.com/@dvdhartsman)
  
   -- David Hartsman on Medium(https://medium.com/@dvdhartsman)
 
+<hr style="border: 4px solid blue">
 
 - 📫 **How to reach me**:
   
