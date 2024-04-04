@@ -42,6 +42,8 @@ I have a passion for extracting meaningful insights from data. I enjoy taking th
 - **DataCamp Portfolio**:
 
    -- [DataCamp Projects](https://www.datacamp.com/portfolio/dvdhartsman?view=true): *Small-Scale Projects*
+
+   **Python/Data Science**
     - **Analyzing Crime in Los Angeles**
     - **Investigating Netflix Movies**
     - **Predictive Modeling for Agriculture**
