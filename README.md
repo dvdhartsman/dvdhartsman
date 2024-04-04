@@ -32,7 +32,7 @@ I have a passion for extracting meaningful insights from data. I enjoy taking th
   
   -- [Tanzanian Water Well Operating Status Predictions](https://github.com/dvdhartsman/Tanzanian_Water_Pumps)
     - *Curated and engineered features about Tanzanian Water wells to predict their operational status and if they needed repairs*
-    - *Utilized Scitkit-Learn Logistic Regression models to develop a multi-class classification model
+    - *Utilized Scitkit-Learn Logistic Regression models to develop a multi-class classification model*
 
 <hr style="border: 4px solid blue">
 
