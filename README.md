@@ -1,12 +1,11 @@
-### Hello Everyone! 👋
+## Hello Everyone! 👋
 
-#### Welcome to my GitHub Portfolio
-
-#### About Me: 
+### David Hartsman
 
 **Data Scientist | Engineer | Analyst**
 
-##### David Hartsman
+#### About Me: 
+
 - 😄 Pronouns: He/Him
 
 *Data Scientist @ Omdena, Graduate of the Flatiron School Data Science program, professional experience as a performing musician, educator, and professional poker player.* 
