@@ -51,7 +51,7 @@ contribute to impactful projects.
 
    -- DataCamp Projects: *Small-Scale Projects*
 
-   **Python/Data Science**
+   **Python/Data Science Projects**
     - **Analyzing Crime in Los Angeles**
     - **Investigating Netflix Movies**
     - **Predictive Modeling for Agriculture**
@@ -66,7 +66,7 @@ contribute to impactful projects.
     - **Analyzing TV Data**
   
 
-  **SQL Dialects**
+  **SQL-Based Projects**
     - **What and Where are the World's Oldest Businesses**
     - **Analyzing American Baby Name Trends**
     - **Analyzing Unicorn Companies**
