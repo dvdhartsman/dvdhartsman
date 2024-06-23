@@ -79,6 +79,7 @@ contribute to impactful projects.
     - **Impact Analysis of GoodThought NGO Initiatives**
     - **Analyzing Electric Vehicle Charging Habits**
     - **Analyzing Motorcycle Part Sales**
+    - **Evaluate a Manufacturing Process**
 
 <hr style="border: 4px solid blue">
 
