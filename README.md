@@ -1,12 +1,10 @@
-## Hello Everyone! 👋
+## Hello and Welcome Everyone! 👋
 
-### David Hartsman
+### My name is David Hartsman (He/Him)
 
 **Data Scientist | Engineer | Analyst**
 
 #### About Me: 
-
-- 😄 Pronouns: He/Him
 
 *Data Scientist @ Omdena, Graduate of the Flatiron School Data Science program, professional experience as a performing musician, educator, and professional poker player.* 
 
