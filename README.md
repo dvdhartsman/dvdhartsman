@@ -1,6 +1,6 @@
 ## Hello and Welcome Everyone! 👋
 
-### My name is David Hartsman (He/Him)
+### My name is David Hartsman ####(He/Him)
 
 **Data Scientist | Engineer | Analyst**
 
