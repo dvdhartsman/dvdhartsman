@@ -76,6 +76,7 @@ contribute to impactful projects.
     - **When Was the Golden Era of Video Games?**
     - **Impact Analysis of GoodThought NGO Initiatives**
     - **Analyzing Electric Vehicle Charging Habits**
+    - **Analyzing Motorcycle Part Sales**
 
 <hr style="border: 4px solid blue">
 
