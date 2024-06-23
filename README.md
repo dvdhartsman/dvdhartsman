@@ -6,11 +6,12 @@
 ##### David Hartsman
 - 😄 Pronouns: He/Him
 
-**Data Scientist|Analyst** 
+**Data Scientist|Engineer|Analyst** 
 
-*Graduate of the Flatiron School Data Science program with professional experience as a performing musician, educator, and professional poker player.* 
+*Graduate of the Flatiron School Data Science program, Data Scientist @ Omdena, professional experience as a performing musician, educator, and professional poker player.* 
 
-I have a passion for extracting meaningful insights from data. I enjoy taking those insights and developing actionable items to help improve organizational outcomes. I am actively learning new skills, working on projects large and small, studying online with DataCamp and other resources, and expanding my toolkit. 
+My unique background in music, education, and professional poker has shaped my ability to approach data problems creatively and strategically. I excel at leveraging data to drive positive business outcomes, bolstered by my strong communication skills and ability to work effectively with diverse teams. I am excited to use my unique skill set to tackle complex data challenges and
+contribute to impactful projects.
 
 <hr style="border: 4px solid blue">
 
@@ -19,6 +20,10 @@ I have a passion for extracting meaningful insights from data. I enjoy taking th
   -- [Computer Vision - Bird Species Classification](https://github.com/dvdhartsman/Bird_Species_Image_Classification)
     - *Using Keras/Tensorflow Convolutional Neural Networks to develop a model capable of identifying 525 different bird species*
     - *Deployment of the final model using Streamlit (link to app found below)*
+ 
+  -- [NCAA Men's Tournament Predictions](https://github.com/dvdhartsman/March_Machine_Learning_Mania_2024)
+    - *Merged multiple different datasets to create aggregated season statistics for each team* 
+    - *Engineered features/interaction terms to iteratively improve model performance*
 
   -- [Stock Market Analysis](https://github.com/dvdhartsman/Stock_Market_Analysis)
     - *Analysis and model creation of stock market data consolidated from multiple sources for the S&P 500, Nasdaq, Russell 2000, and Dow Jones Industrial Average*
@@ -56,8 +61,23 @@ I have a passion for extracting meaningful insights from data. I enjoy taking th
     - **Customer Analytics: Preparing Data for Modeling**
     - **Exploring NYC Public School Test Results**
     - **Modeling Car Insurance Claims Outcomes**
+    - **Predicting Movie Rental Durations**
     - **Visualizing the History of Nobel Prize Winners**
     - **Exploring AirBnB Market Trends**
+    - **Clustering Antarctic Penguin Species**
+    - **Analyzing TV Data**
+  **SQL Dialects**
+    - **What and Where are the World's Oldest Businesses**
+    - **Analyzing American Baby Name Trends**
+    - **Analyzing Unicorn Companies**
+    - **Analyzing Industry Carbon Emissions**
+    - **Analyzing Students' Mental Health**
+    - **Analyze International Debt Statistics**
+    - **Exploring London's Travel Network (Snowflake)**
+    - **Analyze International Debt Statistics**
+    - **When Was the Golden Era of Video Games?**
+    - **Impact Analysis of GoodThought NGO Initiatives**
+    - **Analyzing Electric Vehicle Charging Habits**
 
 <hr style="border: 4px solid blue">
 
