@@ -4,7 +4,7 @@
 
 #### About Me: 
 
-**Data Scientist|Engineer|Analyst**
+**Data Scientist | Engineer | Analyst**
 
 ##### David Hartsman
 - 😄 Pronouns: He/Him
