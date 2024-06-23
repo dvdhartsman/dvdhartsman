@@ -8,7 +8,7 @@
 
 **Data Scientist|Engineer|Analyst** 
 
-*Graduate of the Flatiron School Data Science program, Data Scientist @ Omdena, professional experience as a performing musician, educator, and professional poker player.* 
+*Data Scientist @ Omdena, Graduate of the Flatiron School Data Science program, professional experience as a performing musician, educator, and professional poker player.* 
 
 My unique background in music, education, and professional poker has shaped my ability to approach data problems creatively and strategically. I excel at leveraging data to drive positive business outcomes, bolstered by my strong communication skills and ability to work effectively with diverse teams. I am excited to use my unique skill set to tackle complex data challenges and
 contribute to impactful projects.
