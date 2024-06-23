@@ -64,6 +64,8 @@ contribute to impactful projects.
     - **Exploring AirBnB Market Trends**
     - **Clustering Antarctic Penguin Species**
     - **Analyzing TV Data**
+  
+
   **SQL Dialects**
     - **What and Where are the World's Oldest Businesses**
     - **Analyzing American Baby Name Trends**
