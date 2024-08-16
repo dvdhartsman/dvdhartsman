@@ -63,34 +63,34 @@ contribute to impactful projects.
 
 __DataCamp Projects: Small-Scale Projects__
 
-**Python/Data Science Projects**
-  - **Analyzing Crime in Los Angeles**
-  - **Investigating Netflix Movies**
-  - **Predictive Modeling for Agriculture**
-  - **Hypothesis Testing with Men's and Women's Soccer Matches**
-  - **Customer Analytics: Preparing Data for Modeling**
-  - **Exploring NYC Public School Test Results**
-  - **Modeling Car Insurance Claims Outcomes**
-  - **Predicting Movie Rental Durations**
-  - **Visualizing the History of Nobel Prize Winners**
-  - **Exploring AirBnB Market Trends**
-  - **Clustering Antarctic Penguin Species**
-  - **Analyzing TV Data**
+  **Python/Data Science Projects**
+    - **Analyzing Crime in Los Angeles**
+    - **Investigating Netflix Movies**
+    - **Predictive Modeling for Agriculture**
+    - **Hypothesis Testing with Men's and Women's Soccer Matches**
+    - **Customer Analytics: Preparing Data for Modeling**
+    - **Exploring NYC Public School Test Results**
+    - **Modeling Car Insurance Claims Outcomes**
+    - **Predicting Movie Rental Durations**
+    - **Visualizing the History of Nobel Prize Winners**
+    - **Exploring AirBnB Market Trends**
+    - **Clustering Antarctic Penguin Species**
+    - **Analyzing TV Data**
   
-**SQL-Based Projects**    
-  - **What and Where are the World's Oldest Businesses**
-  - **Analyzing American Baby Name Trends**
-  - **Analyzing Unicorn Companies**
-  - **Analyzing Industry Carbon Emissions**
-  - **Analyzing Students' Mental Health**
-  - **Analyze International Debt Statistics**
-  - **Exploring London's Travel Network (Snowflake)**
-  - **Analyze International Debt Statistics**
-  - **When Was the Golden Era of Video Games?**
-  - **Impact Analysis of GoodThought NGO Initiatives**
-  - **Analyzing Electric Vehicle Charging Habits**
-  - **Analyzing Motorcycle Part Sales**
-  - **Evaluate a Manufacturing Process**
+  **SQL-Based Projects**    
+    - **What and Where are the World's Oldest Businesses**
+    - **Analyzing American Baby Name Trends**
+    - **Analyzing Unicorn Companies**
+    - **Analyzing Industry Carbon Emissions**
+    - **Analyzing Students' Mental Health**
+    - **Analyze International Debt Statistics**
+    - **Exploring London's Travel Network (Snowflake)**
+    - **Analyze International Debt Statistics**
+    - **When Was the Golden Era of Video Games?**
+    - **Impact Analysis of GoodThought NGO Initiatives**
+    - **Analyzing Electric Vehicle Charging Habits**
+    - **Analyzing Motorcycle Part Sales**
+    - **Evaluate a Manufacturing Process**
 
 <hr style="border: 4px solid blue">
 
