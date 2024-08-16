@@ -61,6 +61,7 @@ contribute to impactful projects.
 
   - DataCamp Certifications: *Data Scientist, Data Analyst, Data Engineer*
 
+<br>
 __DataCamp Projects: Small-Scale Projects__
 
   --Python/Data Science Projects--
