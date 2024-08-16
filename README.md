@@ -39,17 +39,17 @@ contribute to impactful projects.
 
 <hr style="border: 4px solid blue">
 
-- [**Streamlit App**:](https://bird-species-image-classification-heath-and-david.streamlit.app/)
+- **Streamlit Web Apps:**
 
-  -- Bird Classification Streamlit App
+  -- [Bird Classification Streamlit App](https://bird-species-image-classification-heath-and-david.streamlit.app/)
     - *Application with the model created in the Bird Classification project*
     - *Assess the model's predictive accuracy on the 525 species by feeding it images of birds from outside sources*
  
-  -- Golf Handicap Tracker
+  -- [Golf Handicap Tracker](https://golfhandicaptracker.streamlit.app/)
     - *Web application built to track my friends' and my own golf performance*
     - *Research and explanation of handicap calculation, allows user interaction with synthetic data, plotly interactive charts/dashboard for analysis*
  
-  -- Personal Injury Claim Predictions - Omdena
+  -- [Personal Injury Claim Predictions - Omdena](https://omdena-phoenix-prediction.streamlit.app/)
     - *UI for the prediction of personal injury claims related to car accidents*
     - *I designed the analysis tab for different datasets though only 1 was used*
     - *Plotly interactive charts on the analysis tab, collaborated on the iterative predicitive model creation and deployment*
