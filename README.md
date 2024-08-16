@@ -61,8 +61,7 @@ contribute to impactful projects.
 
   - DataCamp Certifications: *Data Scientist, Data Analyst, Data Engineer*
 
-**DataCamp Projects: _Small-Scale Projects_**
-
+__DataCamp Projects: Small-Scale Projects__
 
    **Python/Data Science Projects**
     - **Analyzing Crime in Los Angeles**
