@@ -44,6 +44,15 @@ contribute to impactful projects.
   -- Bird Classification Streamlit App
     - *Application with the model created in the Bird Classification project*
     - *Assess the model's predictive accuracy on the 525 species by feeding it images of birds from outside sources*
+ 
+  -- Golf Handicap Tracker
+    - *Web application built to track my friends' and my own golf performance*
+    - *Research and explanation of handicap calculation, allows user interaction with synthetic data, plotly interactive charts/dashboard for analysis*
+ 
+  -- Personal Injury Claim Predictions - Omdena
+    - *UI for the prediction of personal injury claims related to car accidents*
+    - *I designed the analysis tab for different datasets though only 1 was used*
+    - *Plotly interactive charts on the analysis tab, collaborated on the iterative predicitive model creation and deployment*
 
 <hr style="border: 4px solid blue">
 
