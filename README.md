@@ -76,7 +76,7 @@ __DataCamp Projects: Small-Scale Projects__
   - **Exploring AirBnB Market Trends**
   - **Clustering Antarctic Penguin Species**
   - **Analyzing TV Data**
-  
+    
   **SQL-Based Projects**    
   - **What and Where are the World's Oldest Businesses**
   - **Analyzing American Baby Name Trends**
