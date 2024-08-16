@@ -63,7 +63,7 @@ contribute to impactful projects.
 
   -- DataCamp Projects: *Small-Scale Projects*
 
-<hr style="border: 2px solid blue">
+---
 
    **Python/Data Science Projects**
     - **Analyzing Crime in Los Angeles**
@@ -79,7 +79,7 @@ contribute to impactful projects.
     - **Clustering Antarctic Penguin Species**
     - **Analyzing TV Data**
   
-<hr style="border: 2px solid blue">
+---
 
   **SQL-Based Projects**
     - **What and Where are the World's Oldest Businesses**
