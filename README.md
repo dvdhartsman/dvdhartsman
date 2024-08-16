@@ -59,9 +59,9 @@ contribute to impactful projects.
 
 - [**DataCamp Portfolio**:](https://www.datacamp.com/portfolio/dvdhartsman?view=true)
 
-  -- DataCamp Certifications: *Data Scientist, Data Analyst, Data Engineer*
+  - DataCamp Certifications: *Data Scientist, Data Analyst, Data Engineer*
 
-  -- DataCamp Projects: *Small-Scale Projects*
+**DataCamp Projects: _Small-Scale Projects_**
 
 
    **Python/Data Science Projects**
