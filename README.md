@@ -59,7 +59,8 @@ contribute to impactful projects.
 
 - [**DataCamp Portfolio**:](https://www.datacamp.com/portfolio/dvdhartsman?view=true)
 
-   -- DataCamp Projects: *Small-Scale Projects*
+  -- DataCamp Certifications: *Data Scientist, Data Analyst, Data Engineer*
+  -- DataCamp Projects: *Small-Scale Projects*
 
    **Python/Data Science Projects**
     - **Analyzing Crime in Los Angeles**
