@@ -57,7 +57,7 @@ contribute to impactful projects.
 
 <hr style="border: 4px solid blue">
 
-- [**DataCamp Portfolio**:](https://www.datacamp.com/portfolio/dvdhartsman?view=true)
+- [**DataCamp Portfolio**(All listed projects are viewable here):](https://www.datacamp.com/portfolio/dvdhartsman?view=true)
 
   - DataCamp Certifications: *Data Scientist, Data Analyst, Data Engineer*
 
