@@ -15,6 +15,11 @@ contribute to impactful projects.
 
 - **Projects**: *Large-Scale Projects*
 
+  -- [Personal Injury Claim Predictions - Omdena](https://dagshub.com/dvdhartsman/Phoenix)
+    - *Found open-source data pertaining to personal injuries using different web resources*
+    - *Iteratively modeled predictions of settlement values using multiple algorithms*
+    - *Streamlit application deployment (link below in Streamlit section)
+  
   -- [Computer Vision - Bird Species Classification](https://github.com/dvdhartsman/Bird_Species_Image_Classification)
     - *Using Keras/Tensorflow Convolutional Neural Networks to develop a model capable of identifying 525 different bird species*
     - *Deployment of the final model using Streamlit (link to app found below)*
