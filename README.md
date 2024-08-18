@@ -50,8 +50,7 @@ contribute to impactful projects.
     - *Application with the model created in the Bird Classification project*
     - *Assess the model's predictive accuracy on the 525 species by feeding it images of birds from outside sources*
  
-  -- [Golf Handicap Tracker](https://golfhandicaptracker.streamlit.app/)
-    - [*GitHub Repo for Data Creation, App Creation, and Data Entry*](https://github.com/dvdhartsman/golf_handicap_tracker)
+  -- [Golf Handicap Tracker](https://golfhandicaptracker.streamlit.app/) | [*GitHub Repo for Data Creation, App Creation, and Data Entry*](https://github.com/dvdhartsman/golf_handicap_tracker)
     - *Web application built to track my friends' and my own golf performance*
     - *Research and explanation of handicap calculation, allows user interaction with synthetic data, plotly interactive charts/dashboard for analysis*
  
